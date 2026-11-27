@@ -45,12 +45,17 @@ Provides a relevant answer with more natural pacing, clearer intonation, and a c
 
 Demonstration Evaluation
 
-Criterion| Model A| Model B
-Audio Quality| Good| Excellent
-Naturalness| Fair| Excellent
-Pronunciation| Good| Good
-Fluency| Excellent| Good
-Relevance| Good| Good
+
+## Demonstration Evaluation
+
+| Criterion | Model A | Model B |
+|---|---|---|
+| Audio Quality | Good | Excellent |
+| Naturalness | Fair | Excellent |
+| Pronunciation | Good | Good |
+| Fluency | Excellent | Good |
+| Relevance | Good | Good |
+
 
 Overall Preference
 
